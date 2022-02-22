@@ -1,0 +1,9 @@
+h2{
+    text-shadow: 2px 4px 5px pink, 3px 4px 6px red;
+}
+div{
+    width:300px;
+    height:300px;
+    background-color: green;
+    box-shadow: 10px 10px 10px gray inset,2px 4px 5px red;
+}

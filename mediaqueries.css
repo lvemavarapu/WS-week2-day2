@@ -1,0 +1,15 @@
+.breakpoints{
+padding-left:20px;
+
+}
+
+@media only screen and (max-width:600px){
+.breakpoints{background-color: blue;}
+
+}
+@media only screen and (min-width:800px){
+    .breakpoints{background-color:yellowgreen;}
+}
+@media only screen and (min-width:1200px){
+    .breakpoints{font-weight:bold;}
+}

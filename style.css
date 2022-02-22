@@ -1,0 +1,27 @@
+div{
+    width:300px;
+    height:300px;
+    position:static;
+    
+}
+#one{
+    
+    background-color: yellow;
+   
+    
+}
+#two{
+    top:0;
+    background-color: magenta;
+}
+#three{
+    background-color: red;
+    bottom:20px;
+    right:100px;
+    position:fixed;
+}
+#four{
+    background-color: black;
+    position:absolute;
+    
+}

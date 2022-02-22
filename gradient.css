@@ -1,0 +1,10 @@
+body{
+    background-color: plum;
+    /* background-image: linear-gradient( to left ,blue, cyan, magenta); */
+
+}
+div{
+    width:300px;
+    height:400px;
+    background-image:radial-gradient(black,gray,brown,orange,purple);
+}
